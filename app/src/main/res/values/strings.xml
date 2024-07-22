@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SolarSports</string>
+    <string name="user_name">Usuario</string>
+    <string name="password">Password</string>
+    <string name="login">Entrar</string>
+
+    <string name="home_title">Inicio</string>
+    <string name="home_greetings">Bienvenido %s,</string>
+    <string name="home_report">En este momento tienes un promedio de ahorro de %d W, por concepto de los %d paneles que tienes registrados</string>
+    <string name="home_no_report_available">En este momento no tienes dispositivos registrados, por lo tanto te invitamos a registrar para conocer tu ahorro</string>
+
+    <string name="product_list_title">Paneles registrados</string>
+    <string name="product_list_remove_product">Eliminar</string>
+    <string name="product_list_size_prefix">Tamaño: %s</string>
+    <string name="product_list_category_prefix">Categoria: %s</string>
+    <string name="product_list_type_prefix">Tipo: %s</string>
+    <string name="product_list_savings_prefix">Ahorro: %d</string>
+
+    <string name="add_product_title">Agregar panel</string>
+    <string name="add_product_product_name_lbl">Nombre del panel</string>
+    <string name="add_product_validation_error_message">No es posible continuar, por favor llenar todos los campos</string>
+    <string name="add_product_button">Agregar</string>
+    <string name="add_product_success_lbl">Panel agregado exitosamente</string>
+
+    <string name="category_settings_title">Categorias</string>
+    <string name="category_settings_add_lbl">Agregar categoria</string>
+    <string name="category_settings_add_category_name_lbl">Nombre categoria</string>
+    <string name="category_settings_add_category_description_lbl">Descripcion categoria</string>
+    <string name="category_settings_add_category_button_lbl">Agregar</string>
+    <string name="category_settings_add_category_error_lbl">No es posible agregar esta categoria</string>
+    <string name="category_settings_add_category_success_lbl">Categoria agregada exitosamente</string>
+
+
+</resources>
